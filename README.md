@@ -1,5 +1,4 @@
-# api-nodejs-express-mongodb
-API em NodeJS + Express + MongoDB.
+#API em NodeJS + Express + MongoDB.
 
 Publicado no Heroku
 
