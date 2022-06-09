@@ -8,12 +8,12 @@ Link da API: https://api-senhas.herokuapp.com/
 
 ### Busca geral
 
-/banco
-/social
-/outro
+* /banco 
+* /social
+* /outro
 
 ### Buscar por ID
 
-/banco/id
-/social/id
-/outro/id
+* /banco/id
+* /social/id
+* /outro/id
