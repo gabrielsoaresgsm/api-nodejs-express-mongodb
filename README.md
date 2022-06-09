@@ -6,12 +6,14 @@ Link da API: https://api-senhas.herokuapp.com/
 
 ## Rotas:
 
-### /banco
-### /social
-### /outro
+### Busca geral
 
-## Buscar por ID
+/banco
+/social
+/outro
 
-### /banco/id
-### /social/id
-### /outro/id
+### Buscar por ID
+
+/banco/id
+/social/id
+/outro/id
