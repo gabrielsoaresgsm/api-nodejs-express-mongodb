@@ -30,11 +30,13 @@ const bancoRoutes = require('./routes/bancoRoutes')
 const socialRoutes = require('./routes/socialRoutes')
 const userRoutes = require('./routes/userRoutes')
 const outroRoutes = require('./routes/outroRoutes')
+const agendamentoRoutes = require('./routes/agendamentoRoutes')
 
 app.use('/banco', bancoRoutes)
 app.use('/social', socialRoutes)
 app.use('/auth', userRoutes)
 app.use('/outro', outroRoutes)
+app.use('/agendamento', agendamentoRoutes)
 
 // rota inicial / endpoint
 app.get('/', (req, res) => {
